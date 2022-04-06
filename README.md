@@ -30,7 +30,7 @@ First, you'll want to initialize StimulusJS and then you can import the Stimulus
 
 ```javascript
 // Start StimulusJS
-import { Application } from "stimulus"
+import { Application } from "@hotwired/stimulus"
 import { definitionsFromContext } from "stimulus/webpack-helpers"
 
 const application = Application.start();

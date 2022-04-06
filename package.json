@@ -27,7 +27,7 @@
   },
   "peerDependencies": {
     "slim-select": "^1.27.0",
-    "stimulus": ">=2.0.0"
+    "@hotwired/stimulus": ">=3.0.1"
   },
   "scripts": {
     "build": "microbundle --globals stimulus=Stimulus",
